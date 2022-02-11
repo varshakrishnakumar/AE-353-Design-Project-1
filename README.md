@@ -21,6 +21,7 @@ After creating the environment, if Jupyter and Git are not enabled on Anaconda's
     conda install git
     
  Next, clone this repository.
+ 
     git clone https://github.com/varshakrishnakumar/AE-353-Design-Project-1.git
  
  On an Anaconda Powershell terminal, locate the cloned repository and open Jupyter
